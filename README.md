@@ -3,7 +3,7 @@
 clone the repo locally, and make sure it works
 
 ```
-$ git clone
+$ git clone https://github.com/lennox-davidlevy/lab-redo.git
 $ cd lab-redo
 $ npm i
 $ npm start
