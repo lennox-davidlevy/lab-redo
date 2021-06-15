@@ -24,9 +24,6 @@ $ git add .
 $ git commit -m "first commit"
 ```
 
-Create new repo in squad
-Then push to this repo to your gogs squad repository
-
 sign in to Openshift
 
 ```
