@@ -1,6 +1,6 @@
 # Redoing the Lab
 
-clone the repo locally, and make sure it works
+fork the repo, clone locally, and make sure it works
 
 ```
 $ Fork Repo
